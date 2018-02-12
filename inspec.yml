@@ -1,0 +1,8 @@
+name: ec2-example-profile
+title: EC2 Example InSpec Profile
+maintainer: Christoph Hartmann
+copyright: Christoph Hartmann
+copyright_email: chris@lollyrock.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
